@@ -15,7 +15,7 @@ def main():
             print("До встречи!")
             break
         else:
-            print("Я не понял такую кнопку.\n")
+            print("Я не понял такую кнопку.")
 
 if __name__ == "__main__":
     main()
